@@ -74,17 +74,17 @@ st.markdown(
         border-radius: 15px;
         
     }
-    img[src="http://localhost:8501/media/604644fe64f944b2e5eabe51b6045cbb5830987f9f126db4ba7e8d12.jpg"]{
+    img[src="https://careercraftresumeanalyzerprojectgenerativeai.streamlit.app:443/~/+/media/604644fe64f944b2e5eabe51b6045cbb5830987f9f126db4ba7e8d12.jpg"]{
         position:absolute;
         left:25px;
         top:40px;
         width:100px;
     }
-    img[src="http://localhost:8501/media/f21f7c9ff02417ef47b3cf3ea7e53d6d5dcbcf3f975d441855a105a8.jpg" alt="0" style="width: 452.8px;"]{
+    img[src="https://careercraftresumeanalyzerprojectgenerativeai.streamlit.app:443/~/+/media/f21f7c9ff02417ef47b3cf3ea7e53d6d5dcbcf3f975d441855a105a8.jpg" alt="0" style="width: 452.8px;"]{
         position:absolute;
         left:-20px;
     }
-    img[src="http://localhost:8501/media/c8a95cacfd89cbdab4d8c5c1d41d7c3df0b2b2937493b0983346e030.jpg"]{
+    img[src="https://careercraftresumeanalyzerprojectgenerativeai.streamlit.app:443/~/+/media/c8a95cacfd89cbdab4d8c5c1d41d7c3df0b2b2937493b0983346e030.jpg"]{
         position:absolute;
         right:-50px;
         width:100px;
@@ -92,7 +92,7 @@ st.markdown(
         margin-top:0px auto;
         
     }
-    img[src="http://localhost:8501/media/21535ea99dc1fb6e337e6bbb7f629a85cb9cad70cf96ca8e8032fa7f.jpg"]{
+    img[src="https://careercraftresumeanalyzerprojectgenerativeai.streamlit.app:443/~/+/media/f3a80e511a8f882a1cd2157151c35b2daf88838301b6251d068c8993.png"]{
         position:absolute;
         left:-30px;
         margin-top:60px;
