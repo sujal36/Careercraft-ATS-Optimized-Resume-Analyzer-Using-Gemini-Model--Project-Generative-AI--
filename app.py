@@ -208,7 +208,7 @@ with col1:
                 </p>
                 """, unsafe_allow_html=True)
 with col2:
-     img1 = Image.open("./Images/image1.jpg")
+     img1 = Image.open("./Images/image1.jpeg")
      st.image(img1, use_column_width=True)
 
 avs.add_vertical_space(10)
@@ -229,7 +229,7 @@ with col2:
                 </ul>
                 """, unsafe_allow_html=True)
 with col1:
-   img2 = Image.open("./Images/image2.jpg")
+   img2 = Image.open("./Images/image2.jpeg")
    st.image(img2, use_column_width=True, caption="Optimize Your Resume")
 
 avs.add_vertical_space(10)
@@ -272,7 +272,7 @@ with col1:
         else:
             st.error("Please provide both the job description and upload your resume.")
 with col2:
-    img3 = Image.open("./Images/image3.jpg")
+    img3 = Image.open("./Images/image3.jpeg")
     st.image(img3, use_column_width=True, caption="Career Guidance")
 
 avs.add_vertical_space(10)
@@ -295,7 +295,7 @@ st.markdown("""
                 </div>
                 """, unsafe_allow_html=True)
 with col1:
-   img3 = Image.open("./Images/image4.jpg")
+   img3 = Image.open("./Images/image4.png")
    st.image(img3, use_column_width=True)
 
 
